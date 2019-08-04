@@ -1,0 +1,11 @@
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csprojAssemblyReference.cache
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.csproj.CoreCompileInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfoInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.AssemblyInfo.cs
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.deps.json
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.json
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.runtimeconfig.dev.json
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.dll
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/bin/Debug/netcoreapp2.1/Composition.pdb
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.dll
+/Users/orgel/Documents/code/udemy/C#/Composition/Composition/obj/Debug/netcoreapp2.1/Composition.pdb

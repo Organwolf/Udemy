@@ -1,0 +1,11 @@
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.deps.json
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.json
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.runtimeconfig.dev.json
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.dll
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/bin/Debug/netcoreapp2.1/Properties.pdb
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.csprojAssemblyReference.cache
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.csproj.CoreCompileInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfoInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.AssemblyInfo.cs
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.dll
+/Users/orgel/Documents/code/udemy/C#/Properties/Properties/obj/Debug/netcoreapp2.1/Properties.pdb

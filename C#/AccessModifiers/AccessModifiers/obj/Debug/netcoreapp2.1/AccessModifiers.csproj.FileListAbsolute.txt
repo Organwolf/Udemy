@@ -1,0 +1,11 @@
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.1/AccessModifiers.deps.json
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.1/AccessModifiers.runtimeconfig.json
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.1/AccessModifiers.runtimeconfig.dev.json
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.1/AccessModifiers.dll
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/bin/Debug/netcoreapp2.1/AccessModifiers.pdb
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.csprojAssemblyReference.cache
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.AssemblyInfoInputs.cache
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.AssemblyInfo.cs
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.dll
+/Users/orgel/Documents/code/udemy/C#/AccessModifiers/AccessModifiers/obj/Debug/netcoreapp2.1/AccessModifiers.pdb

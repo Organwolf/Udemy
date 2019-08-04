@@ -1,0 +1,1 @@
+/Users/orgel/Documents/code/udemy/C#/Methods/Methods/obj/x86/Debug/Methods.csproj.CoreCompileInputs.cache

@@ -1,0 +1,11 @@
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/bin/Debug/netcoreapp2.1/Casting.deps.json
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/bin/Debug/netcoreapp2.1/Casting.runtimeconfig.json
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/bin/Debug/netcoreapp2.1/Casting.runtimeconfig.dev.json
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/bin/Debug/netcoreapp2.1/Casting.dll
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/bin/Debug/netcoreapp2.1/Casting.pdb
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.csprojAssemblyReference.cache
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.csproj.CoreCompileInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.AssemblyInfoInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.AssemblyInfo.cs
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.dll
+/Users/orgel/Documents/code/udemy/C#/Casting/Casting/obj/Debug/netcoreapp2.1/Casting.pdb

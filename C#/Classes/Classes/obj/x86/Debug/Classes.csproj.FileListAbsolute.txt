@@ -1,0 +1,6 @@
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/obj/x86/Debug/Classes.csprojAssemblyReference.cache
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/obj/x86/Debug/Classes.csproj.CoreCompileInputs.cache
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/bin/Debug/Classes.exe
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/bin/Debug/Classes.pdb
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/obj/x86/Debug/Classes.exe
+/Users/orgel/Documents/code/udemy/C#/Classes/Classes/obj/x86/Debug/Classes.pdb
