@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{5B012BD5-0036-02B5-3DEE-CFD3459F23CE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DoorManager.cs">
+    <Files>
+      <File FileName="Assets/AttributeManager.cs" Line="14" Column="12" />
+      <File FileName="Assets/DoorManager.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63ad88ab-a2e3-4768-8eb8-2c02e4f142ab" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
