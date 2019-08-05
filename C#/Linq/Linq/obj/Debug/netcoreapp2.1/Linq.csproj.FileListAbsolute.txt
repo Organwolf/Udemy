@@ -1,0 +1,11 @@
+F:\Other projects\Udemy\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.deps.json
+F:\Other projects\Udemy\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.json
+F:\Other projects\Udemy\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.runtimeconfig.dev.json
+F:\Other projects\Udemy\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.dll
+F:\Other projects\Udemy\Linq\Linq\bin\Debug\netcoreapp2.1\Linq.pdb
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csprojAssemblyReference.cache
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.csproj.CoreCompileInputs.cache
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfoInputs.cache
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.AssemblyInfo.cs
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.dll
+F:\Other projects\Udemy\Linq\Linq\obj\Debug\netcoreapp2.1\Linq.pdb
