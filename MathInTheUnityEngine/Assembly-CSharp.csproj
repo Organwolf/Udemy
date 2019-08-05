@@ -62,10 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AttributeManager.cs" />
-    <Compile Include="Assets\DoorManager.cs" />
     <Compile Include="Assets\Scripts\AttributeManager.cs" />
     <Compile Include="Assets\Scripts\CameraFollow360.cs" />
+    <Compile Include="Assets\Scripts\CreateBoard.cs" />
     <Compile Include="Assets\Scripts\DoorManager.cs" />
     <Compile Include="Assets\Scripts\PlayerController.cs" />
     <Reference Include="Unity.Timeline.Editor">

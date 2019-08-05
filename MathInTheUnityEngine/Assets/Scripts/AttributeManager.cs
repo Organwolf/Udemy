@@ -6,38 +6,33 @@ using System;
 
 public class AttributeManager : MonoBehaviour
 {
-    //Keys
     static public int BLUEKEY = 4;
     static public int REDKEY = 2;
     static public int GREENKEY = 1;
-    // Doors
-    static public int MAGIC = 16;
-    static public int FLY = 8;
-    static public int INVISIBLE = 32;
 
     public Text attributeDisplay;
     public int attributes = 0;
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject.tag == "MAGIC")
+        if(other.gameObject.tag == "BLUE_KEY")
         {
-            attributes ^= BLUEKEY;
+            attributes |= BLUEKEY;
             Destroy(other.gameObject);
         }
-        else if (other.gameObject.tag == "FLY")
+        else if (other.gameObject.tag == "RED_KEY")
         {
-            attributes ^= REDKEY;
+            attributes |= REDKEY;
             Destroy(other.gameObject);
         }
-        else if (other.gameObject.tag == "INVISIBLE")
+        else if (other.gameObject.tag == "GREEN_KEY")
         {
-            attributes ^= GREENKEY;
+            attributes |= GREENKEY;
             Destroy(other.gameObject);
         }
         else if (other.gameObject.tag == "GOLD_KEY")
         {
-            attributes ^= (BLUEKEY | REDKEY | GREENKEY);
+            attributes |= (BLUEKEY | REDKEY | GREENKEY);
             Destroy(other.gameObject);
         }
     }
