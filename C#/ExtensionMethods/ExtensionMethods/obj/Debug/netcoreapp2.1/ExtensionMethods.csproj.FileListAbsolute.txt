@@ -1,0 +1,11 @@
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.deps.json
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.json
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.runtimeconfig.dev.json
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.dll
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp2.1\ExtensionMethods.pdb
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csprojAssemblyReference.cache
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfoInputs.cache
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.AssemblyInfo.cs
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.dll
+F:\Other projects\Udemy\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp2.1\ExtensionMethods.pdb

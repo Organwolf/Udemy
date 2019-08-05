@@ -1,0 +1,11 @@
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csprojAssemblyReference.cache
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.csproj.CoreCompileInputs.cache
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfoInputs.cache
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.AssemblyInfo.cs
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.deps.json
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.json
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.runtimeconfig.dev.json
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.dll
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\bin\Debug\netcoreapp2.1\EventsAndDelegates.pdb
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.dll
+F:\Other projects\Udemy\EventsAndDelegates\EventsAndDelegates\obj\Debug\netcoreapp2.1\EventsAndDelegates.pdb
