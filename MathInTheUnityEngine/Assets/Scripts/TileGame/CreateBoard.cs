@@ -5,7 +5,6 @@ using System;
 using UnityEngine.UI;
 
 // Practice using bitboards
-// GitKraken doesn't respond to changes
 
 public class CreateBoard : MonoBehaviour
 {
@@ -17,6 +16,7 @@ public class CreateBoard : MonoBehaviour
     // Every type of cell needs it's own bitboard
     long dirtBB = 0;
     long treeBB = 0;
+    long desertBB;
     long playerBB = 0;
 
     // Start is called before the first frame update
@@ -37,9 +37,13 @@ public class CreateBoard : MonoBehaviour
                 if(tile.tag == "Dirt")
                 {
                     dirtBB = SetCellState(dirtBB, row, col);
+                } else if(tile.tag == "Desert")
+                {
+                    desertBB = SetCellState(desertBB, row, col);
                 }
             }
         }
+        Debug.Log("Total Desert tiles: " + CellCount(desertBB));
         Debug.Log("Dirt cells = " + CellCount(dirtBB));
         InvokeRepeating("PlantTree", 1, 1);
     }
@@ -86,6 +90,13 @@ public class CreateBoard : MonoBehaviour
         } return count;
     }
 
+    void CalculateScore()
+    {
+        score.text = "Score: " + CellCount(dirtBB & playerBB) * 1
+                               + CellCount(desertBB & playerBB) * 2;
+                                
+    }
+
     // Update is called once per frame
     void Update()
     {
@@ -97,12 +108,13 @@ public class CreateBoard : MonoBehaviour
             {
                 int row = (int)hit.collider.gameObject.transform.position.z;
                 int col = (int)hit.collider.gameObject.transform.position.x;
-                if (GetCellState((dirtBB & ~treeBB), row, col))
+                if (GetCellState((dirtBB & ~treeBB) | desertBB, row, col))
                 {
                     GameObject house = Instantiate(housePrefab);
                     house.transform.parent = hit.collider.gameObject.transform;
                     house.transform.localPosition = Vector3.zero;
                     playerBB = SetCellState(playerBB, row, col);
+                    CalculateScore();
                 }
             }
         }
