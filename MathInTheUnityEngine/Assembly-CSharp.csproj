@@ -62,11 +62,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AttributeManager.cs" />
-    <Compile Include="Assets\Scripts\CameraFollow360.cs" />
-    <Compile Include="Assets\Scripts\CreateBoard.cs" />
-    <Compile Include="Assets\Scripts\DoorManager.cs" />
-    <Compile Include="Assets\Scripts\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\CombatJane\AttributeManager.cs" />
+    <Compile Include="Assets\Scripts\CombatJane\CameraFollow360.cs" />
+    <Compile Include="Assets\Scripts\CombatJane\DoorManager.cs" />
+    <Compile Include="Assets\Scripts\CombatJane\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\TileGame\CreateBoard.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>F:/Other projects/Udemy/MathInTheUnityEngine/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
