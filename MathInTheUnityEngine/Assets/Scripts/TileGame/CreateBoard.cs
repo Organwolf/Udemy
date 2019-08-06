@@ -37,7 +37,8 @@ public class CreateBoard : MonoBehaviour
                 if(tile.tag == "Dirt")
                 {
                     dirtBB = SetCellState(dirtBB, row, col);
-                } else if(tile.tag == "Desert")
+                }
+                if (tile.tag == "Desert")
                 {
                     desertBB = SetCellState(desertBB, row, col);
                 }
