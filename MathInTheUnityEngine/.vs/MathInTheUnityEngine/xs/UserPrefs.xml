@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{5B012BD5-0036-02B5-3DEE-CFD3459F23CE}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DoorManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/AttributeManager.cs">
     <Files>
-      <File FileName="Assets/AttributeManager.cs" Line="14" Column="12" />
-      <File FileName="Assets/DoorManager.cs" Line="13" Column="1" />
+      <File FileName="Assets/Scripts/AttributeManager.cs" Line="16" Column="39" />
+      <File FileName="Assets/Scripts/DoorManager.cs" Line="11" Column="13" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
